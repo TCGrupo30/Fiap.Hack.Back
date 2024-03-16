@@ -8,15 +8,15 @@ namespace TC.GrupoTrinta.BlogNews.Domain.Entity
         public Guid ImageId { get; set; }
         public Guid VideoId { get; set; }        
         public string NameImage { get; set; }
-        public string PathImagem { get; set; }
+        public string PathImage { get; set; }
         public DateTime CreateAt { get; private set; }
 
-        public Image(Guid imageId, Guid videoId, string nameImage, string pathImagem, DateTime createAt)
+        public Image(Guid imageId, Guid videoId, string nameImage, string pathImage, DateTime createAt)
         {
             ImageId = imageId;
             VideoId = videoId;
             NameImage = nameImage;
-            PathImagem = pathImagem;
+            PathImage = pathImage;
             CreateAt = createAt;
         }
     }
