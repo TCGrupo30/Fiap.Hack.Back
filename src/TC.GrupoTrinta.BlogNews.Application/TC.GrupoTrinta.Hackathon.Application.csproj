@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TC.GrupoTrinta.BlogNews.Domain\TC.GrupoTrinta.BlogNews.Domain.csproj" />
+    <ProjectReference Include="..\TC.GrupoTrinta.BlogNews.Domain\TC.GrupoTrinta.Hackathon.Domain.csproj" />
   </ItemGroup>
 
 </Project>

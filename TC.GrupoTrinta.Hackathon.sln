@@ -7,17 +7,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{74186759-4A8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{CE9E1FE9-EA73-41C7-82D7-09C1CE0536F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.BlogNews.Domain", "src\TC.GrupoTrinta.BlogNews.Domain\TC.GrupoTrinta.BlogNews.Domain.csproj", "{D6C80659-E7C7-42BC-9C12-C8C5DB631167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.Hackathon.Domain", "src\TC.GrupoTrinta.BlogNews.Domain\TC.GrupoTrinta.Hackathon.Domain.csproj", "{D6C80659-E7C7-42BC-9C12-C8C5DB631167}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.BlogNews.Application", "src\TC.GrupoTrinta.BlogNews.Application\TC.GrupoTrinta.BlogNews.Application.csproj", "{D6EB22A5-9982-42D7-B95D-C02EB994F602}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.Hackathon.Application", "src\TC.GrupoTrinta.BlogNews.Application\TC.GrupoTrinta.Hackathon.Application.csproj", "{D6EB22A5-9982-42D7-B95D-C02EB994F602}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.BlogNews.Infra.Data.EF", "src\TC.GrupoTrinta.BlogNews.Infra.Data.EF\TC.GrupoTrinta.BlogNews.Infra.Data.EF.csproj", "{B57937A0-21CE-4F88-8CF0-15EF5463CC4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.Hackathon.Infra.Data.EF", "src\TC.GrupoTrinta.BlogNews.Infra.Data.EF\TC.GrupoTrinta.Hackathon.Infra.Data.EF.csproj", "{B57937A0-21CE-4F88-8CF0-15EF5463CC4A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.BlogNews.Api", "src\TC.GrupoTrinta.BlogNews.Api\TC.GrupoTrinta.BlogNews.Api.csproj", "{8B0D3848-C678-4AEB-BADA-B7B13EA9F9AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.Hackathon.Api", "src\TC.GrupoTrinta.BlogNews.Api\TC.GrupoTrinta.Hackathon.Api.csproj", "{8B0D3848-C678-4AEB-BADA-B7B13EA9F9AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.BlogNews.Api.Tests", "src\TC.GrupoTrinta.BlogNews.Api.Tests\TC.GrupoTrinta.BlogNews.Api.Tests.csproj", "{2F0F1B74-35B3-4D8C-AD4D-193109B5632F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.Hackathon.Api.Tests", "src\TC.GrupoTrinta.BlogNews.Api.Tests\TC.GrupoTrinta.Hackathon.Api.Tests.csproj", "{2F0F1B74-35B3-4D8C-AD4D-193109B5632F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC.GrupoTrinta.BlogNews.Api.Integration", "TC.GrupoTrinta.BlogNews.Api.Integration\TC.GrupoTrinta.BlogNews.Api.Integration.csproj", "{F1B9C89C-B2F4-44EA-B28E-FC7157796CC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TC.GrupoTrinta.Hackathon.Api.Integration", "TC.GrupoTrinta.BlogNews.Api.Integration\TC.GrupoTrinta.Hackathon.Api.Integration.csproj", "{F1B9C89C-B2F4-44EA-B28E-FC7157796CC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

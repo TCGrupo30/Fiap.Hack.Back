@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TC.GrupoTrinta.BlogNews.Application\TC.GrupoTrinta.BlogNews.Application.csproj" />
-    <ProjectReference Include="..\TC.GrupoTrinta.BlogNews.Domain\TC.GrupoTrinta.BlogNews.Domain.csproj" />
+    <ProjectReference Include="..\TC.GrupoTrinta.BlogNews.Application\TC.GrupoTrinta.Hackathon.Application.csproj" />
+    <ProjectReference Include="..\TC.GrupoTrinta.BlogNews.Domain\TC.GrupoTrinta.Hackathon.Domain.csproj" />
   </ItemGroup>
 
 </Project>

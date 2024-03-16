@@ -19,8 +19,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TC.GrupoTrinta.BlogNews.Application\TC.GrupoTrinta.BlogNews.Application.csproj" />
-    <ProjectReference Include="..\TC.GrupoTrinta.BlogNews.Infra.Data.EF\TC.GrupoTrinta.BlogNews.Infra.Data.EF.csproj" />
+    <ProjectReference Include="..\TC.GrupoTrinta.BlogNews.Application\TC.GrupoTrinta.Hackathon.Application.csproj" />
+    <ProjectReference Include="..\TC.GrupoTrinta.BlogNews.Infra.Data.EF\TC.GrupoTrinta.Hackathon.Infra.Data.EF.csproj" />
   </ItemGroup>
 
 </Project>
